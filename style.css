@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.BookCover{
+    background-color: #F7ED11;
+    height: 800px;
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+    
+}
+.national{
+    font-size: 30px;
+    letter-spacing: 4px;
+    text-align: center;
+    font-stretch: extra-expanded;
+    font-weight: 200;
+}
+.read{
+    height: 2rem;
+    background-color: black;
+    margin: auto;
+    text-align: center;
+}
+.only{
+    color: blanchedalmond;
+    font-weight: 200;
+    position: relative;
+    top: 4px;
+    
+}
+.heading{
+    font-size: 70px;
+    text-align: center;
+    letter-spacing: 4px;
+    font-weight: 250;
+    margin-top: 1rem;
+}
+.rudest{
+    color: red;
+}
+.para{
+    font-size: 1.6rem;
+    text-align: center;
+    letter-spacing: 4px;
+    margin: auto 2rem;
+}
+.image{
+    width: 38rem;
+}
+.shweta{
+    font-size: 2rem;
+}
